@@ -1,0 +1,19 @@
+{
+  "name": "tp-bowling",
+  "version": "1.0.0",
+  "description": "Dans cet exercice au TDD, nous avons besoin d'un code pour comptabiliser les points d'une partie de bowling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfourny/tp-bowling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfourny/tp-bowling/issues"
+  },
+  "homepage": "https://github.com/vfourny/tp-bowling#readme"
+}
